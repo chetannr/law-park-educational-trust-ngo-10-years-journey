@@ -15,7 +15,6 @@ export async function loadSlidesData(): Promise<Slide[]> {
 }
 
 export function processSlidesIntoMilestones(slides: Slide[]): Milestone[] {
-  const milestones: Milestone[] = [];
   const yearMap = new Map<number, Milestone>();
 
   slides.forEach((slide) => {

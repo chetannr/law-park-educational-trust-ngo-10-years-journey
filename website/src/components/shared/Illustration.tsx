@@ -10,7 +10,7 @@ interface IllustrationProps {
 // 
 // Quick setup: Visit https://undraw.co, search for illustrations, set color to #16a34a,
 // download as SVG, and save to public/illustrations/ with the names below
-export function Illustration({ name, color = '16a34a', className = '' }: IllustrationProps) {
+export function Illustration({ name, color: _color = '16a34a', className = '' }: IllustrationProps) {
   // Try local path first (recommended for production)
   const localPath = `/illustrations/${name}.svg`;
   
@@ -21,9 +21,8 @@ export function Illustration({ name, color = '16a34a', className = '' }: Illustr
       className={className}
       loading="lazy"
       aria-hidden="true"
-      onError={(e) => {
+      onError={() => {
         // If local file doesn't exist, show a placeholder or use inline SVG
-        const target = e.target as HTMLImageElement;
         // You can add a placeholder SVG here or download the illustration
         console.log(`Illustration "${name}" not found. Please download from unDraw.co and place in public/illustrations/`);
       }}
