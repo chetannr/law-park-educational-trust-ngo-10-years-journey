@@ -1,0 +1,695 @@
+[
+  {
+    "slide_number": 1,
+    "text_content": [],
+    "images": [
+      {
+        "filename": "slide_01_Picture_5_00.jpg",
+        "path": "images/slide_01_Picture_5_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "",
+    "title": "slide_1"
+  },
+  {
+    "slide_number": 2,
+    "text_content": [
+      {
+        "shape_index": 0,
+        "text": "Charu audio story"
+      }
+    ],
+    "images": [],
+    "all_text": "Charu audio story",
+    "title": "Charu_audio_story"
+  },
+  {
+    "slide_number": 3,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "OUR FIRST SCHOLARSHIP KID IN THE YEAR 2016"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_03_Picture_1_00.jpg",
+        "path": "images/slide_03_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "OUR FIRST SCHOLARSHIP KID IN THE YEAR 2016",
+    "title": "OUR_FIRST_SCHOLARSHIP_KID_IN_THE_YEAR_2016"
+  },
+  {
+    "slide_number": 4,
+    "text_content": [
+      {
+        "shape_index": 0,
+        "text": "In the year 2016, this was the first school in Chickaballapur for scholarship in the name of Raghavendra education trust."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_04_Picture_4_00.jpg",
+        "path": "images/slide_04_Picture_4_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "In the year 2016, this was the first school in Chickaballapur for scholarship in the name of Raghavendra education trust.",
+    "title": "In_the_year_2016_this_was_the_first_school_in_Chi"
+  },
+  {
+    "slide_number": 5,
+    "text_content": [
+      {
+        "shape_index": 2,
+        "text": "On 04.08.2018 in Chickaballapur"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_05_Picture_1_00.jpg",
+        "path": "images/slide_05_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_05_Picture_2_01.jpg",
+        "path": "images/slide_05_Picture_2_01.jpg",
+        "shape_index": 1
+      },
+      {
+        "filename": "slide_05_Picture_4_02.jpg",
+        "path": "images/slide_05_Picture_4_02.jpg",
+        "shape_index": 2
+      }
+    ],
+    "all_text": "On 04.08.2018 in Chickaballapur",
+    "title": "On_04082018_in_Chickaballapur"
+  },
+  {
+    "slide_number": 6,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "In the year 2019, scholarship were given to the following kids."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_06_Picture_1_00.jpg",
+        "path": "images/slide_06_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_06_Picture_3_01.jpg",
+        "path": "images/slide_06_Picture_3_01.jpg",
+        "shape_index": 1
+      }
+    ],
+    "all_text": "In the year 2019, scholarship were given to the following kids.",
+    "title": "In_the_year_2019_scholarship_were_given_to_the_fo"
+  },
+  {
+    "slide_number": 7,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "IN THE YEAR 2020"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_07_Picture_1_00.jpg",
+        "path": "images/slide_07_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "IN THE YEAR 2020",
+    "title": "IN_THE_YEAR_2020"
+  },
+  {
+    "slide_number": 8,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "In 2021 around 100 children were given scholarship"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_08_Picture_5_00.jpg",
+        "path": "images/slide_08_Picture_5_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "In 2021 around 100 children were given scholarship",
+    "title": "In_2021_around_100_children_were_given_scholarship"
+  },
+  {
+    "slide_number": 9,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "In the year 2022 Libraries were setup in few rural schools with the books donated.\n(Story books, academic books, unused note books with some papers left)"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_09_Picture_1_00.jpg",
+        "path": "images/slide_09_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_09_Picture_3_01.jpg",
+        "path": "images/slide_09_Picture_3_01.jpg",
+        "shape_index": 1
+      },
+      {
+        "filename": "slide_09_Picture_4_02.jpg",
+        "path": "images/slide_09_Picture_4_02.jpg",
+        "shape_index": 2
+      }
+    ],
+    "all_text": "In the year 2022 Libraries were setup in few rural schools with the books donated.\n(Story books, academic books, unused note books with some papers left)",
+    "title": "In_the_year_2022_Libraries_were_setup_in_few_rural"
+  },
+  {
+    "slide_number": 10,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "In 2022, Rural sector scholarship conducted at Law park office premises."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_10_Picture_1_00.jpg",
+        "path": "images/slide_10_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "In 2022, Rural sector scholarship conducted at Law park office premises.",
+    "title": "In_2022_Rural_sector_scholarship_conducted_at_Law"
+  },
+  {
+    "slide_number": 11,
+    "text_content": [
+      {
+        "shape_index": 2,
+        "text": "In 2023 Mysore children who received scholarship"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_11_Picture_1_00.jpg",
+        "path": "images/slide_11_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_11_Picture_2_01.jpg",
+        "path": "images/slide_11_Picture_2_01.jpg",
+        "shape_index": 1
+      }
+    ],
+    "all_text": "In 2023 Mysore children who received scholarship",
+    "title": "In_2023_Mysore_children_who_received_scholarship"
+  },
+  {
+    "slide_number": 12,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "In 2023, Tribal kids from H .D .Kote"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_12_Picture_1_00.jpg",
+        "path": "images/slide_12_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "In 2023, Tribal kids from H .D .Kote",
+    "title": "In_2023_Tribal_kids_from_H_D_Kote"
+  },
+  {
+    "slide_number": 13,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "On 16.12.2023 conducted career counselling to 10th and 9th kids of DMS Jnana Kuteera School, Baby, Pandavapura."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_13_Picture_1_00.jpg",
+        "path": "images/slide_13_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_13_Picture_3_01.jpg",
+        "path": "images/slide_13_Picture_3_01.jpg",
+        "shape_index": 1
+      }
+    ],
+    "all_text": "On 16.12.2023 conducted career counselling to 10th and 9th kids of DMS Jnana Kuteera School, Baby, Pandavapura.",
+    "title": "On_16122023_conducted_career_counselling_to_10th"
+  },
+  {
+    "slide_number": 14,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "On 14.04.2024 visited   DMS Jnana Kuteera School, Baby, Pandavapura.  Interviewed  students for scholarship and also conducted career counselling for 10th std."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_14_Picture_1_00.jpg",
+        "path": "images/slide_14_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "On 14.04.2024 visited   DMS Jnana Kuteera School, Baby, Pandavapura.  Interviewed  students for scholarship and also conducted career counselling for 10th std.",
+    "title": "On_14042024_visited___DMS_Jnana_Kuteera_School"
+  },
+  {
+    "slide_number": 15,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "On 16.06.2024 in Mulbagal to  interview for scholarship. An article was published in Udayavani newspaper dt.19.06.2024"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_15_Picture_1_00.jpg",
+        "path": "images/slide_15_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "On 16.06.2024 in Mulbagal to  interview for scholarship. An article was published in Udayavani newspaper dt.19.06.2024",
+    "title": "On_16062024_in_Mulbagal_to__interview_for_schola"
+  },
+  {
+    "slide_number": 16,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "An article published in Udayavani local newspaper dt.19.06.2024"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_16_Picture_1_00.jpg",
+        "path": "images/slide_16_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "An article published in Udayavani local newspaper dt.19.06.2024",
+    "title": "An_article_published_in_Udayavani_local_newspaper"
+  },
+  {
+    "slide_number": 17,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "On 14th July 2024, KGF team was at LAW PARK Associates office for scholarship and followed by lunch was organized."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_17_Picture_1_00.jpg",
+        "path": "images/slide_17_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "On 14th July 2024, KGF team was at LAW PARK Associates office for scholarship and followed by lunch was organized.",
+    "title": "On_14th_July_2024_KGF_team_was_at_LAW_PARK_Associ"
+  },
+  {
+    "slide_number": 18,
+    "text_content": [
+      {
+        "shape_index": 0,
+        "text": "The academic year 2024-25 started off with visit to MM Hills tribal schools to distribute 200 school bags, note books and stationeries on 22nd June 2024."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_18_Picture_2_00.jpg",
+        "path": "images/slide_18_Picture_2_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_18_Picture_3_01.jpg",
+        "path": "images/slide_18_Picture_3_01.jpg",
+        "shape_index": 1
+      },
+      {
+        "filename": "slide_18_Picture_4_02.jpg",
+        "path": "images/slide_18_Picture_4_02.jpg",
+        "shape_index": 2
+      },
+      {
+        "filename": "slide_18_Picture_5_03.jpg",
+        "path": "images/slide_18_Picture_5_03.jpg",
+        "shape_index": 3
+      }
+    ],
+    "all_text": "The academic year 2024-25 started off with visit to MM Hills tribal schools to distribute 200 school bags, note books and stationeries on 22nd June 2024.",
+    "title": "The_academic_year_2024-25_started_off_with_visit_t"
+  },
+  {
+    "slide_number": 19,
+    "text_content": [
+      {
+        "shape_index": 4,
+        "text": "MM hills"
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_19_Picture_1_00.jpg",
+        "path": "images/slide_19_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_19_Picture_2_01.jpg",
+        "path": "images/slide_19_Picture_2_01.jpg",
+        "shape_index": 1
+      },
+      {
+        "filename": "slide_19_Picture_3_02.jpg",
+        "path": "images/slide_19_Picture_3_02.jpg",
+        "shape_index": 2
+      },
+      {
+        "filename": "slide_19_Picture_4_03.jpg",
+        "path": "images/slide_19_Picture_4_03.jpg",
+        "shape_index": 3
+      }
+    ],
+    "all_text": "MM hills",
+    "title": "MM_hills"
+  },
+  {
+    "slide_number": 20,
+    "text_content": [
+      {
+        "shape_index": 2,
+        "text": "On 25.08.2024 in Kolar for interview and distributed school bags and notebooks."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_20_Picture_3_00.jpg",
+        "path": "images/slide_20_Picture_3_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "On 25.08.2024 in Kolar for interview and distributed school bags and notebooks.",
+    "title": "On_25082024_in_Kolar_for_interview_and_distribut"
+  },
+  {
+    "slide_number": 21,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "On 12.04.2025 visited   DMS Jnana Kuteera School, Baby, Pandavapura.  20 students got scholarship."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_21_Picture_1_00.jpg",
+        "path": "images/slide_21_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "On 12.04.2025 visited   DMS Jnana Kuteera School, Baby, Pandavapura.  20 students got scholarship.",
+    "title": "On_12042025_visited___DMS_Jnana_Kuteera_School"
+  },
+  {
+    "slide_number": 22,
+    "text_content": [
+      {
+        "shape_index": 0,
+        "text": "The academic year 2025-26 started off with  full excitement to visit H D Kote tribal kids to distribute 300 school bags, note books and stationeries on 19th and 20th July 2025 in association with Nisarga foundation.\nSome generously had donated fun toys, paint boxes, crayons, colour pens & pencils, sketch pens, sanitary napkins, chocolates etc., to the kids"
+      }
+    ],
+    "images": [],
+    "all_text": "The academic year 2025-26 started off with  full excitement to visit H D Kote tribal kids to distribute 300 school bags, note books and stationeries on 19th and 20th July 2025 in association with Nisarga foundation.\nSome generously had donated fun toys, paint boxes, crayons, colour pens & pencils, sketch pens, sanitary napkins, chocolates etc., to the kids",
+    "title": "The_academic_year_2025-26_started_off_with__full_e"
+  },
+  {
+    "slide_number": 23,
+    "text_content": [
+      {
+        "shape_index": 4,
+        "text": "The dedicated volunteers who visited HD Kote schools. 8 different locations\nKudos to the young kids."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_23_Picture_1_00.jpg",
+        "path": "images/slide_23_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_23_Picture_2_01.jpg",
+        "path": "images/slide_23_Picture_2_01.jpg",
+        "shape_index": 1
+      },
+      {
+        "filename": "slide_23_Picture_3_02.jpg",
+        "path": "images/slide_23_Picture_3_02.jpg",
+        "shape_index": 2
+      },
+      {
+        "filename": "slide_23_Picture_5_03.jpg",
+        "path": "images/slide_23_Picture_5_03.jpg",
+        "shape_index": 3
+      }
+    ],
+    "all_text": "The dedicated volunteers who visited HD Kote schools. 8 different locations\nKudos to the young kids.",
+    "title": "The_dedicated_volunteers_who_visited_HD_Kote_schoo"
+  },
+  {
+    "slide_number": 24,
+    "text_content": [],
+    "images": [
+      {
+        "filename": "slide_24_Picture_1_00.jpg",
+        "path": "images/slide_24_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_24_Picture_2_01.jpg",
+        "path": "images/slide_24_Picture_2_01.jpg",
+        "shape_index": 1
+      },
+      {
+        "filename": "slide_24_Picture_3_02.jpg",
+        "path": "images/slide_24_Picture_3_02.jpg",
+        "shape_index": 2
+      },
+      {
+        "filename": "slide_24_Picture_4_03.jpg",
+        "path": "images/slide_24_Picture_4_03.jpg",
+        "shape_index": 3
+      },
+      {
+        "filename": "slide_24_Picture_5_04.jpg",
+        "path": "images/slide_24_Picture_5_04.jpg",
+        "shape_index": 4
+      },
+      {
+        "filename": "slide_24_Picture_6_05.jpg",
+        "path": "images/slide_24_Picture_6_05.jpg",
+        "shape_index": 5
+      }
+    ],
+    "all_text": "",
+    "title": "slide_24"
+  },
+  {
+    "slide_number": 25,
+    "text_content": [
+      {
+        "shape_index": 2,
+        "text": "The small children enjoyed this toy to the max."
+      },
+      {
+        "shape_index": 3,
+        "text": "These are few girls who are going to college from the tribe."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_25_Picture_1_00.jpg",
+        "path": "images/slide_25_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_25_Picture_2_01.jpg",
+        "path": "images/slide_25_Picture_2_01.jpg",
+        "shape_index": 1
+      }
+    ],
+    "all_text": "The small children enjoyed this toy to the max.\n\nThese are few girls who are going to college from the tribe.",
+    "title": "The_small_children_enjoyed_this_toy_to_the_max"
+  },
+  {
+    "slide_number": 26,
+    "text_content": [],
+    "images": [],
+    "all_text": "",
+    "title": "slide_26"
+  },
+  {
+    "slide_number": 27,
+    "text_content": [],
+    "images": [
+      {
+        "filename": "slide_27_Picture_1_00.jpg",
+        "path": "images/slide_27_Picture_1_00.jpg",
+        "shape_index": 0
+      },
+      {
+        "filename": "slide_27_Picture_2_01.jpg",
+        "path": "images/slide_27_Picture_2_01.jpg",
+        "shape_index": 1
+      },
+      {
+        "filename": "slide_27_Picture_3_02.jpg",
+        "path": "images/slide_27_Picture_3_02.jpg",
+        "shape_index": 2
+      },
+      {
+        "filename": "slide_27_Picture_4_03.jpg",
+        "path": "images/slide_27_Picture_4_03.jpg",
+        "shape_index": 3
+      },
+      {
+        "filename": "slide_27_Picture_5_04.jpg",
+        "path": "images/slide_27_Picture_5_04.jpg",
+        "shape_index": 4
+      },
+      {
+        "filename": "slide_27_Picture_6_05.jpg",
+        "path": "images/slide_27_Picture_6_05.jpg",
+        "shape_index": 5
+      },
+      {
+        "filename": "slide_27_Picture_8_06.jpg",
+        "path": "images/slide_27_Picture_8_06.jpg",
+        "shape_index": 6
+      },
+      {
+        "filename": "slide_27_Picture_10_07.jpg",
+        "path": "images/slide_27_Picture_10_07.jpg",
+        "shape_index": 7
+      }
+    ],
+    "all_text": "",
+    "title": "slide_27"
+  },
+  {
+    "slide_number": 28,
+    "text_content": [
+      {
+        "shape_index": 0,
+        "text": "On 9th  August 2025, the team was in  KGF to interview around 50 kids along with their guardians with respect to the scholarship."
+      },
+      {
+        "shape_index": 2,
+        "text": "The team interacted with kids and held various fun activities in spite of torrential rains."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_28_Picture_3_00.jpg",
+        "path": "images/slide_28_Picture_3_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "On 9th  August 2025, the team was in  KGF to interview around 50 kids along with their guardians with respect to the scholarship.\n\nThe team interacted with kids and held various fun activities in spite of torrential rains.",
+    "title": "On_9th__August_2025_the_team_was_in__KGF_to_inter"
+  },
+  {
+    "slide_number": 29,
+    "text_content": [
+      {
+        "shape_index": 0,
+        "text": "On 9th  August 2025, the team was in  Kolar to interview around 60 kids along with their guardians with respect to the scholarship."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_29_Picture_5_00.jpg",
+        "path": "images/slide_29_Picture_5_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "On 9th  August 2025, the team was in  Kolar to interview around 60 kids along with their guardians with respect to the scholarship.",
+    "title": "On_9th__August_2025_the_team_was_in__Kolar_to_int"
+  },
+  {
+    "slide_number": 30,
+    "text_content": [
+      {
+        "shape_index": 1,
+        "text": "The team also conducted various fun activities with kids and an opportunity was provided to showcase the children talents like singing and dance. \n\nThe team also distributed chocolates and biscuit packets."
+      },
+      {
+        "shape_index": 2,
+        "text": "On 11th October 2025, the team was in  Kolar to distribute school bags, note books and stationery items to Chronic Health Condition kids."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_30_Picture_1_00.jpg",
+        "path": "images/slide_30_Picture_1_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "The team also conducted various fun activities with kids and an opportunity was provided to showcase the children talents like singing and dance. \n\nThe team also distributed chocolates and biscuit packets.\n\nOn 11th October 2025, the team was in  Kolar to distribute school bags, note books and stationery items to Chronic Health Condition kids.",
+    "title": "The_team_also_conducted_various_fun_activities_wit"
+  },
+  {
+    "slide_number": 31,
+    "text_content": [
+      {
+        "shape_index": 0,
+        "text": "Students getting scholarship from Law Park Educational Trust"
+      },
+      {
+        "shape_index": 1,
+        "text": "Year\t\t\t\tNo. of kids\n2021 \t\t\t\t\t150\n \t\t\t\t\t250\n \t\t\t\t\t350\n \t\t\t\t\t450 \n \t\t\t\t\t550"
+      }
+    ],
+    "images": [],
+    "all_text": "Students getting scholarship from Law Park Educational Trust\n\nYear\t\t\t\tNo. of kids\n2021 \t\t\t\t\t150\n \t\t\t\t\t250\n \t\t\t\t\t350\n \t\t\t\t\t450 \n \t\t\t\t\t550",
+    "title": "Students_getting_scholarship_from_Law_Park_Educati"
+  },
+  {
+    "slide_number": 32,
+    "text_content": [
+      {
+        "shape_index": 0,
+        "text": "“We are so grateful for your dedication and hard work as a volunteer. Your commitment is instrumental to our success. Thank you for being a vital part of Law Park Educational Trust”."
+      }
+    ],
+    "images": [
+      {
+        "filename": "slide_32_Picture_2_00.jpg",
+        "path": "images/slide_32_Picture_2_00.jpg",
+        "shape_index": 0
+      }
+    ],
+    "all_text": "“We are so grateful for your dedication and hard work as a volunteer. Your commitment is instrumental to our success. Thank you for being a vital part of Law Park Educational Trust”.",
+    "title": "We_are_so_grateful_for_your_dedication_and_hard_w"
+  }
+]
