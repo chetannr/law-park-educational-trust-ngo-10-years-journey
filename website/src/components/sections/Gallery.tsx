@@ -21,7 +21,7 @@ export function Gallery({ slides }: GalleryProps) {
         ...img,
         slideTitle: slide.title,
         slideText: slide.all_text,
-        path: `/extracted_content/${img.path}`,
+        path: `${import.meta.env.BASE_URL}extracted_content/${img.path}`,
       }))
     );
 

@@ -22,7 +22,7 @@ export function Hero() {
         {/* Logo */}
         <div className="mb-8 flex justify-center">
           <LazyImage
-            src="/website_content/images/logo.png"
+            src={`${import.meta.env.BASE_URL}website_content/images/logo.png`}
             alt="Law Park Educational Trust Logo"
             className="h-24 md:h-32 lg:h-40 w-auto object-contain"
           />

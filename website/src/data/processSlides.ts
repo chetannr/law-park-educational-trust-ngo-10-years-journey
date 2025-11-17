@@ -3,7 +3,7 @@ import type { Slide, Milestone } from '../types';
 // Import the JSON data - we'll copy it to public folder
 export async function loadSlidesData(): Promise<Slide[]> {
   try {
-    const response = await fetch('/extracted_content/slides_data.json');
+    const response = await fetch(`${import.meta.env.BASE_URL}extracted_content/slides_data.json`);
     if (!response.ok) {
       throw new Error('Failed to load slides data');
     }

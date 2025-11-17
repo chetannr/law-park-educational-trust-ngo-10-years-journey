@@ -106,7 +106,7 @@ export function Timeline({ milestones }: TimelineProps) {
                                 className="relative aspect-square rounded-lg overflow-hidden"
                               >
                                 <LazyImage
-                                  src={`/extracted_content/${image.path}`}
+                                  src={`${import.meta.env.BASE_URL}extracted_content/${image.path}`}
                                   alt={`${milestone.year} - Image ${imgIndex + 1}`}
                                   className="w-full h-full"
                                 />

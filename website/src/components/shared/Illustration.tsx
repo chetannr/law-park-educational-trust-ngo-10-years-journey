@@ -12,7 +12,7 @@ interface IllustrationProps {
 // download as SVG, and save to public/illustrations/ with the names below
 export function Illustration({ name, color: _color = '16a34a', className = '' }: IllustrationProps) {
   // Try local path first (recommended for production)
-  const localPath = `/illustrations/${name}.svg`;
+  const localPath = `${import.meta.env.BASE_URL}illustrations/${name}.svg`;
   
   return (
     <img

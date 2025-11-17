@@ -54,7 +54,7 @@ export interface WebsiteContent {
 
 export async function loadWebsiteContent(): Promise<WebsiteContent | null> {
   try {
-    const response = await fetch('/website_content/website_content.json');
+    const response = await fetch(`${import.meta.env.BASE_URL}website_content/website_content.json`);
     if (!response.ok) {
       return null;
     }
