@@ -1,6 +1,5 @@
 import { Button } from '../ui/Button';
 import { LazyImage } from '../shared/LazyImage';
-import { EducationIllustration, ChildrenIllustration } from '../shared/Illustration';
 
 export function Hero() {
   return (
@@ -9,14 +8,14 @@ export function Hero() {
       className="relative min-h-screen flex items-center justify-center text-gray-900"
     >
       {/* Decorative illustrations */}
-      <div className="absolute inset-0 opacity-10 pointer-events-none">
+      {/* <div className="absolute inset-0 opacity-10 pointer-events-none">
         <div className="absolute top-20 right-10 w-64 h-64 hidden lg:block">
           <EducationIllustration className="w-full h-full" />
         </div>
         <div className="absolute bottom-20 left-10 w-64 h-64 hidden lg:block">
           <ChildrenIllustration className="w-full h-full" />
         </div>
-      </div>
+      </div> */}
       
       <div className="relative z-10 container-custom text-center px-4">
         {/* Logo */}
