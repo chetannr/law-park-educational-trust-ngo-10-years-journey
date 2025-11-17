@@ -40,6 +40,12 @@ export function Header() {
             >
               Impact
             </a>
+            <a 
+              href="#carousel" 
+              className="text-gray-700 hover:text-primary-600 transition-colors focus:outline-none focus:ring-2 focus:ring-primary-600 focus:ring-offset-2 rounded"
+            >
+              Carousel
+            </a>
             <Button variant="primary" size="sm">
               Get Involved
             </Button>
@@ -107,6 +113,13 @@ export function Header() {
               onClick={() => setIsMenuOpen(false)}
             >
               Impact
+            </a>
+            <a
+              href="#carousel"
+              className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded-md"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Carousel
             </a>
             <div className="px-4 pt-2">
               <Button variant="primary" size="sm" className="w-full">

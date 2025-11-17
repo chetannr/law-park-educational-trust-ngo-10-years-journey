@@ -10,6 +10,7 @@ import { Testimonials } from './components/sections/Testimonials';
 import { CTASection } from './components/sections/CTASection';
 import { Process } from './components/sections/Process';
 import { Trustees } from './components/sections/Trustees';
+import { CarouselPage } from './components/sections/CarouselPage';
 import { loadSlidesData, processSlidesIntoMilestones } from './data/processSlides';
 import { loadWebsiteContent, defaultWebsiteContent } from './data/websiteContent';
 import type { Slide, Milestone } from './types';
@@ -77,6 +78,12 @@ function App() {
         <Trustees trustees={websiteContent.trustees} />
         <Gallery slides={slides} />
         <Testimonials testimonials={websiteContent.testimonials} />
+        <CarouselPage 
+          slides={slides}
+          milestones={milestones}
+          testimonials={websiteContent.testimonials}
+          stats={stats}
+        />
         <CTASection />
       </main>
       <Footer />
