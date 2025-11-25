@@ -1,0 +1,12 @@
+{
+  "name": "law-park-educational-trust-ngo-10-years-journey",
+  "version": "1.0.0",
+  "description": "Law Park Educational Trust NGO 10 years of journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

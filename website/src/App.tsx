@@ -11,6 +11,7 @@ import { CTASection } from './components/sections/CTASection';
 import { Process } from './components/sections/Process';
 import { Trustees } from './components/sections/Trustees';
 import { CarouselPage } from './components/sections/CarouselPage';
+import { WhatsAppButton } from './components/shared/WhatsAppButton';
 import { loadSlidesData, processSlidesIntoMilestones } from './data/processSlides';
 import { loadWebsiteContent, defaultWebsiteContent } from './data/websiteContent';
 import type { Slide, Milestone } from './types';
@@ -87,6 +88,7 @@ function App() {
         <CTASection />
       </main>
       <Footer />
+      <WhatsAppButton />
     </div>
   );
 }

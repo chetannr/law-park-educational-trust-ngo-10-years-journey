@@ -9,8 +9,13 @@ export function Header() {
       <nav className="container-custom">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <a href="#home" className="text-2xl font-bold text-primary-600">
-              Law Park Educational Trust
+            <a href="#home" className="flex items-center">
+              <img
+                src={`${import.meta.env.BASE_URL}website_content/images/logo.png`}
+                alt="Law Park Educational Trust Logo"
+                className="h-10 md:h-12 w-auto object-contain"
+                loading="eager"
+              />
             </a>
           </div>
           

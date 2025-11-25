@@ -74,7 +74,9 @@
     @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
   }
 }
-
+.hero-section{
+  min-height: calc(100vh - 64px);
+}
 /* Swiper Custom Styles */
 .swiper-button-next,
 .swiper-button-prev {
@@ -85,6 +87,7 @@
   height: 44px !important;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
   transition: all 0.3s ease;
+  padding: 14px;
 }
 
 .swiper-button-next:hover,
